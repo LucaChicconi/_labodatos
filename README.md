@@ -12,3 +12,10 @@ La guía 2 y la 3 xd.
 Hecha la guia 2 hasta el ejercicio 9
 
 Queda hacer la sección de Gapminder, Archivos de datos y Estadística Descriptiva
+
+### 14/4
+"Arreglé" la cagada de las versiones de python. Honestamente no estan importante así que ahora se ignora el venv
+
+## 15/4
+
+finally terminé la práctica 2
