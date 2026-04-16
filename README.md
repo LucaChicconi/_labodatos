@@ -19,3 +19,9 @@ Queda hacer la sección de Gapminder, Archivos de datos y Estadística Descripti
 ## 15/4
 
 finally terminé la práctica 2
+
+## 16/4
+upload clase del 15/4 completa + Comienzo práctica 3
+
+Se puede hacer hasta: 
+El ejercicio 4 de la práctica 4
