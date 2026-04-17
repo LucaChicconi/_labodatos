@@ -30,3 +30,7 @@ El ejercicio 4 de la práctica 4
 Termino práctica 3
 Se puede hacer hasta el ejercicio 4
 de la práctica 4
+
+## 17/4
+Ejercicios 1,2 y 4 de la práctica 4 hechos
+Hay que hacer preguntas
