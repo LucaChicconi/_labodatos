@@ -1,5 +1,8 @@
 # TODO Ejercicios resueltos de Labo de Datos 1c2026
 
+## 10/5
+Terminada la práctica 4 doy comienzo a la 5
+
 ## 17/4
 Ejercicios 1,2 y 4 de la práctica 4 hechos
 Hay que hacer preguntas
