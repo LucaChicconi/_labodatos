@@ -2,6 +2,7 @@
 
 ## 10/5
 Terminada la práctica 4 doy comienzo a la 5
+Clase práctica correspondiente hecha
 
 ## 17/4
 Ejercicios 1,2 y 4 de la práctica 4 hechos
