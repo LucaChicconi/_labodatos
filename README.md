@@ -1,4 +1,7 @@
 # TODO Ejercicios resueltos de Labo de Datos 1c2026
+## 14/5 1 AM
+Terminé la práctica 5 :p ahora empieza la diversión.
+
 ## 13/5
 Hecho hasta el ejercicio 10 p5
 
