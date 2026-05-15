@@ -1,4 +1,7 @@
 # TODO Ejercicios resueltos de Labo de Datos 1c2026
+## 15/5
+"Terminada clase 08" hay que checkear que esté bien.
+
 ## 14/5 1 AM
 Terminé la práctica 5 :p ahora empieza la diversión.
 
